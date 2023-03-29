@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "firstname": "Lisa",
+      "Lastname": "chaw",
+      "Email": "lisa@gmail.com",
+      "password": "lisa@34",
+      "id": 1
+    },
+    {
+      "firstname": "sfda",
+      "Lastname": "sd",
+      "Email": "as@ayer.com",
+      "password": "rtw",
+      "id": 2
+    }
+  ]
+}
