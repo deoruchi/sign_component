@@ -86,4 +86,11 @@
     margin-top: 2%;
     color: hsl(0, 100%, 74%);
   }
+  .input_field {
+    transition: all ease-in 0.5s;
+  }
+  .input_field:hover {
+    box-shadow: 1px 1px 9px rgba(146, 144, 144, 0.842);
+    border-color: transparent;
+  }
 }
